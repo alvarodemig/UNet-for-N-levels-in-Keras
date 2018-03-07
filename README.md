@@ -20,6 +20,9 @@ This repository extends and generalize this structure including the next options
   - Activation function (default: ReLu)
   - Batch Normalization: we can include this step (default: 0, as in the original paper)
   - Dropout: we can include a dropout layer after convolutions, values from 0 to 1. (default: 0, as in the original paper)
+  
+Function call and default values:
+UNet(img_shape, levels = 5, initial_channels = 32, channels_rate = 2, activ = 'relu', batch_norm = 0, do = 0)
 
 -------------------------------------------------------------------------------------
 Programming Language: Python
