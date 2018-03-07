@@ -1,6 +1,8 @@
 # UNet for N levels in Keras
 
-Implementation os the Convolutional Nerual Network proposed in the paper: **"U-Net: Convolutional Networks for Biomedical Image Segmentation"**, which can be found here: https://arxiv.org/pdf/1505.04597.pdf
+Implementation os the Convolutional Nerual Network proposed in the paper:
+**"U-Net: Convolutional Networks for Biomedical Image Segmentation"**,
+which can be found here: https://arxiv.org/pdf/1505.04597.pdf
 
 
 Model Structure
