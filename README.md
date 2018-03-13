@@ -1,4 +1,4 @@
-# UNet for N levels in Keras
+# UNet Generalization for N levels in Keras
 
 Implementation os the Convolutional Nerual Network proposed in the paper:
 **"U-Net: Convolutional Networks for Biomedical Image Segmentation"**,
